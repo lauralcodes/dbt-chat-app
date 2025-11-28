@@ -30,4 +30,3 @@ public class MessageListDAO implements MessageDAO {
         messages.add(new Message(2, "Hallå där!", LocalDateTime.now()));
     }
 }
-

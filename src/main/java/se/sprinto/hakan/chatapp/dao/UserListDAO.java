@@ -33,4 +33,3 @@ public class UserListDAO implements UserDAO {
         register(new User("hakan", "password"));
     }
 }
-
