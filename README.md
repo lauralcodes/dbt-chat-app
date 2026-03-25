@@ -1,0 +1,1 @@
+Java Chat Application with MySQL Integration. Enhanced a Java chat application using sockets for server–user communication by implementing persistent data storage with MySQL.This project demonstrates Java backend development, JDBC, SQL, and database integration skills.
